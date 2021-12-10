@@ -146,3 +146,8 @@
   .edit-icon {
     color: #fff;
   }
+
+  .icon {
+    margin: 5px;
+    padding: 2px;
+  }
